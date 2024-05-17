@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple weather web application that allows users to check the current weather conditions for a specific city and view weather data for common cities. The application utilizes the [Weather By API Ninjas](https://rapidapi.com/user/api-ninjas) API to fetch weather data.
+This is a simple weather web application that allows users to check the current weather conditions for a specific city and view weather data for common cities. The application utilizes the [Weather By API Ninjas](https://rapidapi.com/apininjas/api/weather-by-api-ninjas/) API to fetch weather data.
 
 ## Features
 
@@ -30,6 +30,6 @@ This is a simple weather web application that allows users to check the current 
 
 ## Credits
 
-- [Weather By API Ninjas](https://rapidapi.com/user/api-ninjas) for providing the weather data API.
+- [Weather By API Ninjas](https://rapidapi.com/apininjas/api/weather-by-api-ninjas/) for providing the weather data API.
 
 
