@@ -7,7 +7,7 @@ This is a simple weather web application that allows users to check the current 
 ## Features
 
 - **Current Weather:** Users can enter a city name and click the "Search" button to view the current weather conditions for that city.
-- **Weather for Common Cities:** The application also displays weather data for common cities such as Shanghai, Boston, Islamabad, Karachi, Dubai, and London.
+- **Weather for Common Cities:** The application also displays weather data for common cities such as Lahore, Quetta, Islamabad, Karachi, Peshawar, and Faisalabad.
 - **Responsive Design:** The application is built with responsive design principles, ensuring a seamless experience across various devices.
 
 ## Technologies Used
